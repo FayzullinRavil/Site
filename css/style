@@ -1,4 +1,5 @@
 body{
+font-family: Verdana, Helvetica, Arial, sans-serif;
 background-image: https://github.com/FayzullinRavil/Site/blob/main/Image/ecoposter.jpg;
 background-repeat: no-repeat; 
 background-position: top center;
