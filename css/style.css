@@ -3,6 +3,8 @@ font-size: 20px;
 font-style: italic;
 font-family: Verdana, Helvetica, Arial, sans-serif;
 background-image: url(../Image/Эко.jpg);
+  width: 400px;
+  height: auto;
 opacity: 1.0;
 background-repeat: no-repeat; 
 background-position: top center;
